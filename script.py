@@ -2,7 +2,7 @@ class Script(object):
     START_TXT = """𝗛𝗲𝗹𝗹𝗼 {},
 
 𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀  <a href=https://t.me/{}>{}</a>!
-ഞാൻ ഒരു 𝐀𝐔𝐓𝐎 𝐅𝐈𝐋𝐓𝐄𝐑 𝐁𝐎𝐓 ആണ്, എന്റെ മുതലാളി <a href='https://t.me/DhashamoolamDhamu'>𝕯𝖍𝖆𝖘𝖍𝖆𝖒𝖔𝖔𝖑𝖆𝖒𝕯𝖍𝖆𝖒𝖚</a> ആണ്, നിങ്ങൾക്കും നിങ്ങളുടെ ഗ്രൂപ്പുകളിൽ ഇപ്പോൾ എന്നെ ഉപയോഗിക്കാവുന്നതാണ്.
+i am 𝐀𝐔𝐓𝐎 𝐅𝐈𝐋𝐓𝐄𝐑 𝐁𝐎𝐓  <a href='https://t.me/sridhar814'>sridhar</a> my boss and you can use me in your groups now.
 
 """
 
@@ -13,7 +13,7 @@ class Script(object):
     ABOUT_TXT = """
 ╭━━━━━━━━━━━━━━━━━━━━━➣ 
 ┣⪼  ᴍʏ ɴᴀᴍᴇ: {}
-┣ ⪼ ᴄʀᴇᴀᴛᴏʀ: <a href='https://t.me/DhashamoolamDhamu'>ᴅʜᴀꜱʜᴀᴍᴏᴏʟᴀᴍ ᴅʜᴀᴍᴜ</a>
+┣ ⪼ ᴄʀᴇᴀᴛᴏʀ: <a href='https://t.me/sridhar814'>sridhar</a>
 ┣⪼ ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
 ┣⪼ 𝚁𝚎𝚙𝚘: <a href='https://github.com/ccadmin1/Movie-Bot'>ᴄʟɪᴄᴋ</a>
 ┣⪼ ᴅᴀᴛᴀ ʙᴀꜱᴇ: <a href='https://www.mongodb.com/'>MongoDB</a>
@@ -26,7 +26,7 @@ IMDb is a Open source project.
 Source: <a https://github.com/ccadmin1/Movie-Bot'>GitHub - Click here 👈</a>
 
 <b>DEVS:</b>
-- <a href='https://t.me/DhashamoolamDhamu'>DhashamoolamDhamu</a>
+- <a href='https://t.me/sridhar814'>sridhar</a>
 
 """
 
