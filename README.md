@@ -7,7 +7,7 @@ Very Sempil Bot Auto Filter bot
 
 
 
-[![Deploy](https://telegra.ph/file/d053a8e9ef4ed93df38a0.jpg)](https://heroku.com/deploy?template=https://telegram.dog/XTZ_HerokuBot?start=Y2NhZG1pbjEvTW92aWUtQm90IG1hc3Rlcg)
+[![Deploy](https://telegra.ph/file/d053a8e9ef4ed93df38a0.jpg)](https://heroku.com/deploy?template=https://github.com/SRIDHAR814/autofilterv3?start=Y2NhZG1pbjEvTW92aWUtQm90IG1hc3Rlcg)
 
 ## Features
 
